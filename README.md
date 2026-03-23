@@ -1,6 +1,6 @@
 # 3D Rubik's Cube Simulator
 
-An interactive 3D Rubik's Cube simulator built with C++ and OpenGL. Fully solvable with real-time 3D rotation and smooth 60+ FPS rendering.
+An interactive 3D Rubik's Cube simulator built with C++ and OpenGL. Fully solvable with real-time 3D rotation and smooth 60+ FPS rendering. Built for Graphics Programming final project.
 
 ![Demo](rubiks-demo.gif)
 
